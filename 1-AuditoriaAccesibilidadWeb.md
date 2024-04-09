@@ -10,7 +10,7 @@ No me esperaba que no contuviese ningún error. Revisando veo que tiene muchos a
 
 Navegando por la web si vas a la página de un artículo (https://www.apple.com/es/shop/goto/buy_iphone/iphone_15_pro) encuentras ya algunos errores. De todas formas, estos errores en detalles no son apreciables en la web, se ve que están intencionados exceptuando un error por contraste del texto. 
 
-Conclusión: Una web muy trabajada a nivel de accesibilidad y que no necesita aplicar ninguna mejora. 
+Conclusión: Una web muy trabajada a nivel de accesibilidad y que no necesita aplicar mejoras relevantes. 
 
 
 - LightHouse (EXTENSIÓN CHROME)
